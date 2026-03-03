@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Principled political activism starts with finding your voice. Discover how independent reform, government accountability, and civic engagement examples empower Illinois citizens to speak up.
+
+### Platform
+https://example.com/platform
+Explore bold solutions for campaign finance reform, civil liberties, and transparent governance. Our platform offers civic engagement examples that put principles over politics.
+
+### Accountability
+https://example.com/accountability
+Hold power accountable through principled activism. Learn how social service organizations and engaged citizens drive real reform in Illinois government operations.
+
+### Contact
+https://example.com/contact
+Ready to make your voice heard? Connect with our political activism community and discover how overcoming fear of public speaking transforms civic participation.
+
+### Products
+https://example.com/products
+Our Products - Nathaniel Horchem
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Nathaniel Horchem
+
+### Category
+https://example.com/category/:slug
+Products - Nathaniel Horchem
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
